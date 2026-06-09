@@ -50,13 +50,14 @@ Motivated and analytical student passionate about the intersection of data and t
 
 ---
 
+```md
 ## 🚀 Projects
 
 | Project | Description |
 |---|---|
-| 🛒 **E-commerce Website** | Fully functional online store with product listings, cart & checkout — built with HTML, CSS & JS |
-| 💰 **Expense Tracker** | Personal finance tool to log and monitor daily expenses — showcases DOM manipulation & data handling |
-| ✍️ **Blog Website** | Dynamic blogging platform to create and publish articles — demonstrates responsive web design |
+| 📚 **Library Management System** | Java-based console application to manage books, users, issue/return operations using Object-Oriented Programming concepts |
+| 🏠 **Real Estate Price Prediction** | Machine Learning project built using Python to predict property prices through data preprocessing, feature engineering, and model training |
+
 
 ---
 
@@ -83,16 +84,6 @@ Motivated and analytical student passionate about the intersection of data and t
 - 📝 Member of **Editorial Team**, Yuktikula (CSDS Dept.) — 2024–25
 - 🎨 Member of **Management Team**, Navrang Club — 2025–26
 - 🌍 **General Body Member**, Rotaract Club — 2025–26
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kashish1416&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish1416&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
 
 ---
 
