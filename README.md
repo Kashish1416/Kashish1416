@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi there, I'm Kashish Gupta 👋</h1>
 
 <p align="center">
@@ -45,9 +45,11 @@ Motivated and analytical student passionate about the intersection of data and t
 
 ## 🛠️ Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
@@ -72,17 +74,27 @@ Motivated and analytical student passionate about the intersection of data and t
 
 ## 📜 Certifications
 
-- 🏅 **The Complete SQL Bootcamp** — Udemy
-- 🏅 **Build Responsive Real-World Websites with HTML and CSS** — Udemy
-- 🏅 **Presentation Skills** — Udemy
+- 🏅 **The Complete SQL Bootcamp** — Udemy  
+- 🏅 **Build Responsive Real-World Websites with HTML and CSS** — Udemy  
+- 🏅 **Presentation Skills** — Udemy  
 
 ---
 
 ## 🏆 Activities & Achievements
 
-- 📝 Member of **Editorial Team**, Yuktikula (CSDS Dept.) — 2024–25
-- 🎨 Member of **Management Team**, Navrang Club — 2025–26
-- 🌍 General Body Member, **Rotaract Club** — 2025–26
+- 📝 Member of **Editorial Team**, Yuktikula (CSDS Dept.) — 2024–25  
+- 🎨 Member of **Management Team**, Navrang Club — 2025–26  
+- 🌍 General Body Member, **Rotaract Club** — 2025–26  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kashish1416&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish1416&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
 ---
 
@@ -98,5 +110,7 @@ Motivated and analytical student passionate about the intersection of data and t
 
 ---
 
-<p align="center"><em>"Data is the new oil, and I'm here to refine it. ✨"</em></p>
+<p align="center">
+  <em>"Data is the new oil, and I'm here to refine it. ✨"</em>
+</p>
 ```
