@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hi there, I'm Kashish Gupta 👋</h1>
 
 <p align="center">
@@ -50,14 +51,12 @@ Motivated and analytical student passionate about the intersection of data and t
 
 ---
 
-```md
 ## 🚀 Projects
 
 | Project | Description |
 |---|---|
 | 📚 **Library Management System** | Java-based console application to manage books, users, issue/return operations using Object-Oriented Programming concepts |
 | 🏠 **Real Estate Price Prediction** | Machine Learning project built using Python to predict property prices through data preprocessing, feature engineering, and model training |
-
 
 ---
 
@@ -83,7 +82,7 @@ Motivated and analytical student passionate about the intersection of data and t
 
 - 📝 Member of **Editorial Team**, Yuktikula (CSDS Dept.) — 2024–25
 - 🎨 Member of **Management Team**, Navrang Club — 2025–26
-- 🌍 **General Body Member**, Rotaract Club — 2025–26
+- 🌍 General Body Member, **Rotaract Club** — 2025–26
 
 ---
 
@@ -100,3 +99,4 @@ Motivated and analytical student passionate about the intersection of data and t
 ---
 
 <p align="center"><em>"Data is the new oil, and I'm here to refine it. ✨"</em></p>
+```
